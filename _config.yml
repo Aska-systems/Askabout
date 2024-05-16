@@ -1,8 +1,40 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Askabout
+description: Archive of public surveys using Aska.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/favicon_high-resolution.png"
+favicon_ico: "/assets/images/favicon.ico"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://Aska-systems.github.io/Askabout
+
+# aux_links:
+#   Aska Website: https://aska.systems
+
+footer_content: "&copy; Aska Intelligence LLC"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "posts" collection
+    posts:
+      # Give the collection a name
+      name: Posts
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
