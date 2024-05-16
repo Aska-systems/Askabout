@@ -40,7 +40,7 @@ What specific actions do you think are necessary to solve the following issue?: 
 
 ## Response Patterns
 ### Sankey Bouquet Diagram
-![diagram_sankey](/assets/data/1_SDGs_1_1/diagram_sankey.svg)
+![diagram_sankey](../assets/data/1_SDGs_1_1/diagram_sankey.svg)
 
 
 ## Choices
