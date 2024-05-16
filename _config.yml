@@ -22,6 +22,23 @@ collections:
     output: true
     permalink: /:collection/:title
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:

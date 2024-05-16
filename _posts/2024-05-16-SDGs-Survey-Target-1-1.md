@@ -12,17 +12,27 @@ date: 2024-05-16
 
 # SDGs Survey | Target 1.1 
 English Only
-{: .label .label-blue }
+{: .label .label-yellow }
 
+GPT-3.5 turbo
+{: .label .label-blue }
 GPT-4o
 {: .label .label-green }
+
 
 This is an AI survey simulation about SDGs (Sustainable Development Goals) Target 1.1, which states "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day."
 
 ## Setting
 <dl>
   <dt>LLM Type</dt>
-  <dd>GPT-4o</dd>
+  <dd>
+  	<ul>
+  		<li>Choice Proposal (GPT-4o)</li>
+  		<li>Choice Selection (GPT-4o)</li>
+  		<li>Response Description (GPT-3.5 turbo)</li>
+  		<li>Summary Text (GPT-3.5 turbo)</li>
+  	</ul>
+  </dd>
   <dt>Size</dt>
   <dd>50 AI Respondents</dd>
   <dt>Date</dt>
@@ -34,12 +44,20 @@ What specific actions do you think are necessary to solve the following issue?: 
 
 # Results
 
-## AI-generated Summary
+{: .note-title }
+> AI-generated Summary
+>
 > The responses can be classified into groups with similar themes. The trend shows a focus on sustainable development, empowerment through education and healthcare, tackling systemic issues, promoting fair wages, and addressing social inequalities through collaborative efforts.
+{: .my-5}
+
+
 
 
 ## Response Patterns
+
 ### Sankey Bouquet Diagram
+Herein, most frequent response patterns are shown.
+
 ![diagram_sankey](../assets/data/1_SDGs_1_1/diagram_sankey.svg)
 
 
