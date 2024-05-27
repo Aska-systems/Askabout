@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 
 # Archive of public surveys using <b>Aska</b>
