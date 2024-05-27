@@ -63,10 +63,10 @@ Human/AI respondents select all the applicable choice items. They can also post 
   <dt>LLMs Used</dt>
   <dd>
     <ul>
-      <li>Choice Proposal (GPT-4o)</li>
-      <li>Choice Selection (GPT-4o)</li>
-      <li>Response Description (GPT-3.5 turbo)</li>
-      <li>Summary Text (GPT-3.5 turbo)</li>
+      <li>Choice Proposal: <b>GPT-4o</b></li>
+      <li>Choice Selection: <b>GPT-4o</b></li>
+      <li>Response Description (Not Shown): <b>GPT-3.5 turbo</b></li>
+      <li>Summary Text: <b>GPT-3.5 turbo</b></li>
     </ul>
   </dd>
 
