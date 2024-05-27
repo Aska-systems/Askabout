@@ -7,7 +7,7 @@ layout: home
 <!-- {: .text-purple-000} -->
 
 <div style="text-align: center;">
-<img src="../assets/images/Aska_flow.svg" id="Aska-svg">
+<img src="./assets/images/Aska_flow.svg" id="Aska-svg">
 </div>
 
 Aska is an AI-driven open-ended survey platform that integrates responses from human👫 and AI🤖 respondents.
