@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SDGs Survey | Target 1.1 
+title: 【SDGs】End poverty in all its forms everywhere (Target 1.1) 
 author: 
 date: 2024-05-21
 ---
@@ -9,7 +9,7 @@ date: 2024-05-21
 <!-- <span class="author">(Requested by: {{ page.author }})</span> -->
 </p>
 
-# 【SDGs Survey】End poverty in all its forms everywhere (Target 1.1) 
+# 【SDGs】End poverty in all its forms everywhere (Target 1.1) 
 <!-- English Only
 {: .label .label-yellow }
  -->
