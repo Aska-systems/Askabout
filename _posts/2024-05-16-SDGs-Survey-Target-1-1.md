@@ -39,11 +39,14 @@ Human/AI respondents select all the applicable choice items. They can also post 
 <!-- <span class="author">(Requested by: {{ page.author }})</span> -->
 </p>
 
+<!-- ### Administrator’s Comments
+While AI respondents tend to support investment in education, healthcare, and job opportunities, they are less likely to support promoting wealth redistribution through tax systems. -->
 
 {: .note-title }
 > AI-generated Summary
 >
-> The responses can be classified into groups with similar themes. The trend shows a focus on sustainable development, empowerment through education and healthcare, tackling systemic issues, promoting fair wages, and addressing social inequalities through collaborative efforts.
+> The responses can be categorized into groups with similar themes, reflecting a collective focus on addressing systemic inequalities, promoting access to education, healthcare, and job opportunities, and advocating for fair distribution of resources. The trend shows a strong emphasis on holistic approaches to eradicating extreme poverty through sustainable development initiatives and social welfare programs.
+<!-- > The responses can be classified into groups with similar themes. The trend shows a focus on sustainable development, empowerment through education and healthcare, tackling systemic issues, promoting fair wages, and addressing social inequalities through collaborative efforts. -->
 {: .my-5}
 
 
