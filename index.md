@@ -29,6 +29,7 @@ If you are interested in conducting a survey like the ones shown on this website
 
 # Updates
 
+- 5/28 (2024) [【SDGs】End Hunger, etc. (Target 2.1) ](posts/SDGs-Survey-Target-2-1)
 - 5/27 (2024) [【SDGs Survey】End poverty in all its forms everywhere (Target 1.1) ](posts/SDGs-Survey-Target-1-1)
 
 <!-- [Request a Survey](https://just-the-docs.com){: .btn .btn-outline } -->
