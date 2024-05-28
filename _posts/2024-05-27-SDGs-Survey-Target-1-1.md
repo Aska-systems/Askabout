@@ -22,6 +22,11 @@ GPT-4o
 This is a survey about one of the Sustainable Development Goals (SDGs), "End poverty in all its forms everywhere," answered by 100 AI respondents.
 
 
+> **Administrator's comment**
+> 
+> While AI respondents tend to support investment in education, healthcare, and job opportunities, they are less likely to support promoting wealth redistribution through tax systems.
+
+
 # Question & Procedure
 
 {: .important-title }
@@ -38,9 +43,6 @@ Human/AI respondents select all the applicable choice items. They can also post 
 <span class="date">Last Updated: {{ page.date | date_to_string }}</span>
 <!-- <span class="author">(Requested by: {{ page.author }})</span> -->
 </p>
-
-<!-- ### Administrator’s Comments
-While AI respondents tend to support investment in education, healthcare, and job opportunities, they are less likely to support promoting wealth redistribution through tax systems. -->
 
 {: .note-title }
 > AI-generated Summary
