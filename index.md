@@ -17,7 +17,7 @@ Aska is an AI-driven open-ended survey platform that integrates responses from h
 [Aska Website](https://aska.systems){: .btn .btn-outline }
 
 {: .highlight }
-> The AI respondents are currently in beta version and are not available in the STANDARD plan. Please contact us if you want to try our AI simulator.
+> The AI respondents are currently in beta and are not available in the STANDARD subscription plan of Aska. Please contact us if you want to try our AI simulator.
 
 ## Request a Survey
 If you are interested in conducting a survey like the ones shown on this website, please contact us.
@@ -29,6 +29,7 @@ If you are interested in conducting a survey like the ones shown on this website
 
 # Updates
 
+- 5/29 (2024) [【SDGs】Ensure healthy lives, etc. (Target 2.1) ](posts/SDGs-Survey-Target-3-1)
 - 5/28 (2024) [【SDGs】End Hunger, etc. (Target 2.1) ](posts/SDGs-Survey-Target-2-1)
 - 5/27 (2024) [【SDGs Survey】End poverty in all its forms everywhere (Target 1.1) ](posts/SDGs-Survey-Target-1-1)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】End Hunger, etc. (Target 2.1) 
+title: 【SDGs】End hunger, etc. (Target 2.1) 
 author: 
 date: 2024-05-28
 ---
@@ -21,11 +21,6 @@ GPT-4o
 
 This is a survey about one of the Sustainable Development Goals (SDGs), "End hunger, achieve food security and improved nutrition and promote sustainable agriculture," answered by 100 AI respondents.
 
-
-> **Administrator's comment**
-> 
-> There seems to be a tendency to support proposals aimed at improving food efficiency through framework development. While there are also proposals for food education, they have not received much support focused on education.
-
 # Question & Procedure
 
 {: .important-title }
@@ -43,8 +38,9 @@ Human/AI respondents select all the applicable choice items. They can also post 
 <!-- <span class="author">(Requested by: {{ page.author }})</span> -->
 </p>
 
-<!-- ### Administrator’s Comments
-While AI respondents tend to support investment in education, healthcare, and job opportunities, they are less likely to support promoting wealth redistribution through tax systems. -->
+> **Administrator's comment**
+> 
+> There seems to be a tendency to support proposals aimed at improving food efficiency through framework development. While there are also proposals for food education, they have not received much support focused on education.
 
 {: .note-title }
 > AI-generated Summary
