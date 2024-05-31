@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="476.21744"
+   height="819.85474"
+   version="1.1"
+   id="svg85"
+   sodipodi:docname="diagram_sankey.svg"
+   inkscape:export-filename="diagram_sankey.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs85" />
+  <sodipodi:namedview
+     id="namedview85"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.66825629"
+     inkscape:cx="199.02544"
+     inkscape:cy="506.54218"
+     inkscape:window-width="1392"
+     inkscape:window-height="1212"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg85" />
+  <g
+     id="g85"
+     transform="rotate(90,367.09492,166.79469)">
+    <defs
+       id="defs25">
+      <marker
+         id="marker0"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fff7ec"
+           id="circle1" />
+      </marker>
+      <marker
+         id="marker1"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fff7ec"
+           id="circle2" />
+      </marker>
+      <marker
+         id="marker2"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fff7ec"
+           id="circle3" />
+      </marker>
+      <marker
+         id="marker3"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fff7ec"
+           id="circle4" />
+      </marker>
+      <marker
+         id="marker4"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fff7ec"
+           id="circle5" />
+      </marker>
+      <marker
+         id="marker5"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fff7ec"
+           id="circle6" />
+      </marker>
+      <marker
+         id="marker6"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fa8e5d"
+           id="circle7" />
+      </marker>
+      <marker
+         id="marker7"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fa8e5d"
+           id="circle8" />
+      </marker>
+      <marker
+         id="marker8"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fa8e5d"
+           id="circle9" />
+      </marker>
+      <marker
+         id="marker9"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fee1ba"
+           id="circle10" />
+      </marker>
+      <marker
+         id="marker10"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fee1ba"
+           id="circle11" />
+      </marker>
+      <marker
+         id="marker11"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fee1ba"
+           id="circle12" />
+      </marker>
+      <marker
+         id="marker12"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fee1ba"
+           id="circle13" />
+      </marker>
+      <marker
+         id="marker13"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fee1ba"
+           id="circle14" />
+      </marker>
+      <marker
+         id="marker14"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#be120c"
+           id="circle15" />
+      </marker>
+      <marker
+         id="marker15"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#be120c"
+           id="circle16" />
+      </marker>
+      <marker
+         id="marker16"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#be120c"
+           id="circle17" />
+      </marker>
+      <marker
+         id="marker17"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fdc28c"
+           id="circle18" />
+      </marker>
+      <marker
+         id="marker18"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fdc28c"
+           id="circle19" />
+      </marker>
+      <marker
+         id="marker19"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fdc28c"
+           id="circle20" />
+      </marker>
+      <marker
+         id="marker20"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#fdc28c"
+           id="circle21" />
+      </marker>
+      <marker
+         id="marker21"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#e65339"
+           id="circle22" />
+      </marker>
+      <marker
+         id="marker22"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#e65339"
+           id="circle23" />
+      </marker>
+      <marker
+         id="marker23"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#e65339"
+           id="circle24" />
+      </marker>
+      <marker
+         id="marker24"
+         markerWidth="6"
+         markerHeight="6"
+         refX="5"
+         refY="3">
+        <circle
+           cx="3"
+           cy="3"
+           r="1"
+           style="fill:#e65339"
+           id="circle25" />
+      </marker>
+    </defs>
+    <path
+       class="link"
+       fill="none"
+       stroke="#fff7ec"
+       stroke-width="4.65475"
+       marker-end="url(#marker0)"
+       d="m 997.495,60 h -80.602 c -80.602,0 -241.805,0 -328.051,0 -86.247,0 -97.535,0 -108.823,37.917 -11.289,37.916 -22.577,113.75 -33.866,151.666 C 434.865,287.5 423.577,287.5 417.932,287.5 h -5.644"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path25" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fff7ec"
+       stroke-width="4.65475"
+       marker-end="url(#marker1)"
+       d="m 997.495,60 h -80.602 c -80.602,0 -241.805,0 -328.051,0 -86.247,0 -97.535,0 -108.823,46.333 -11.289,46.334 -22.577,139 -33.866,185.334 C 434.865,338 423.577,338 417.932,338 h -5.644"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path26" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fff7ec"
+       stroke-width="4.65475"
+       marker-end="url(#marker2)"
+       d="m 997.495,60 h -80.602 c -80.602,0 -241.805,0 -328.051,0 -86.247,0 -97.535,0 -108.823,54.75 -11.289,54.75 -22.577,164.25 -33.866,219 -11.288,54.75 -22.576,54.75 -28.221,54.75 h -5.644"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path27" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fff7ec"
+       stroke-width="4.65475"
+       marker-end="url(#marker3)"
+       d="m 997.495,60 h -80.602 c -80.602,0 -241.805,0 -328.051,0 -86.247,0 -97.535,0 -108.823,12.667 -11.289,12.666 -22.577,38 -33.866,50.666 C 434.865,136 423.577,136 417.932,136 h -5.644"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path28" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fff7ec"
+       stroke-width="4.65475"
+       marker-end="url(#marker4)"
+       d="m 997.495,60 h -80.602 c -80.602,0 -241.805,0 -328.051,0 -86.247,0 -97.535,0 -108.823,21.083 -11.289,21.084 -22.577,63.25 -33.866,84.334 C 434.865,186.5 423.577,186.5 417.932,186.5 h -5.644"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path29" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fff7ec"
+       stroke-width="4.65475"
+       marker-end="url(#marker5)"
+       d="M 997.495,60 H 916.893 C 836.291,60 675.088,60 588.842,60 502.595,60 491.307,60 480.019,89.5 468.73,119 457.442,178 446.153,207.5 434.865,237 423.577,237 417.932,237 h -5.644"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path30" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fa8e5d"
+       stroke-width="6.733"
+       marker-end="url(#marker6)"
+       d="m 990.89,211.5 h -43.53 c -43.529,0 -130.588,0 -179.698,0 -49.11,0 -60.271,0 -71.432,-12.583 -11.161,-12.584 -22.322,-37.75 -33.483,-50.334 C 651.586,136 640.425,136 634.844,136 h -5.58"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path31" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fa8e5d"
+       stroke-width="6.733"
+       marker-end="url(#marker7)"
+       d="m 990.89,211.5 h -43.53 c -43.529,0 -130.588,0 -179.698,0 -49.11,0 -60.271,0 -71.432,-4.167 -11.161,-4.166 -22.322,-12.5 -33.483,-16.666 C 651.586,186.5 640.425,186.5 634.844,186.5 h -5.58"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path32" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fa8e5d"
+       stroke-width="6.733"
+       marker-end="url(#marker8)"
+       d="m 990.89,211.5 h -43.53 c -43.529,0 -130.588,0 -179.698,0 -49.11,0 -60.271,0 -71.432,4.25 -11.161,4.25 -22.322,12.75 -33.483,17 C 651.586,237 640.425,237 634.844,237 h -5.58"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path33" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fee1ba"
+       stroke-width="3.58236"
+       marker-end="url(#marker9)"
+       d="m 1000.903,110.5 h -68.808 c -68.809,0 -206.426,0 -280.911,0 -74.486,0 -85.84,0 -97.194,37.917 -11.354,37.916 -22.708,113.75 -34.062,151.666 C 508.573,338 497.219,338 491.542,338 h -5.677"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path34" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fee1ba"
+       stroke-width="3.58236"
+       marker-end="url(#marker10)"
+       d="m 1000.903,110.5 h -68.808 c -68.809,0 -206.426,0 -280.911,0 -74.486,0 -85.84,0 -97.194,46.333 -11.354,46.334 -22.708,139 -34.062,185.334 C 508.573,388.5 497.219,388.5 491.542,388.5 h -5.677"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path35" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fee1ba"
+       stroke-width="3.58236"
+       marker-end="url(#marker11)"
+       d="m 1000.903,110.5 h -68.808 c -68.809,0 -206.426,0 -280.911,0 -74.486,0 -85.84,0 -97.194,4.25 -11.354,4.25 -22.708,12.75 -34.062,17 C 508.573,136 497.219,136 491.542,136 h -5.677"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path36" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fee1ba"
+       stroke-width="3.58236"
+       marker-end="url(#marker12)"
+       d="m 1000.903,110.5 h -68.808 c -68.809,0 -206.426,0 -280.911,0 -74.486,0 -85.84,0 -97.194,12.667 -11.354,12.666 -22.708,38 -34.062,50.666 C 508.573,186.5 497.219,186.5 491.542,186.5 h -5.677"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path37" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fee1ba"
+       stroke-width="3.58236"
+       marker-end="url(#marker13)"
+       d="m 1000.903,110.5 h -68.808 c -68.809,0 -206.426,0 -280.911,0 -74.486,0 -85.84,0 -97.194,21.083 -11.354,21.084 -22.708,63.25 -34.062,84.334 C 508.573,237 497.219,237 491.542,237 h -5.677"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path38" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#be120c"
+       stroke-width="12.3221"
+       marker-end="url(#marker14)"
+       d="m 973.127,312.5 h -18.825 c -18.825,0 -56.474,0 -80.708,0 -24.234,0 -35.053,0 -45.871,-4.167 -10.819,-4.166 -21.637,-12.5 -32.455,-16.666 C 784.449,287.5 773.631,287.5 768.222,287.5 h -5.409"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path39" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#be120c"
+       stroke-width="12.3221"
+       marker-end="url(#marker15)"
+       d="m 973.127,312.5 h -18.825 c -18.825,0 -56.474,0 -80.708,0 -24.234,0 -35.053,0 -45.871,21.083 -10.819,21.084 -21.637,63.25 -32.455,84.334 C 784.449,439 773.631,439 768.222,439 h -5.409"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path40" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#be120c"
+       stroke-width="12.3221"
+       marker-end="url(#marker16)"
+       d="m 973.127,312.5 h -18.825 c -18.825,0 -56.474,0 -80.708,0 -24.234,0 -35.053,0 -45.871,12.667 -10.819,12.666 -21.637,38 -32.455,50.666 C 784.449,388.5 773.631,388.5 768.222,388.5 h -5.409"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path41" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fdc28c"
+       stroke-width="3.95811"
+       marker-end="url(#marker17)"
+       d="m 999.709,161 h -56.431 c -56.431,0 -169.293,0 -231.389,0 -62.097,0 -73.428,0 -84.759,-4.167 -11.331,-4.166 -22.662,-12.5 -33.993,-16.666 C 581.806,136 570.475,136 564.809,136 h -5.666"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path42" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fdc28c"
+       stroke-width="3.95811"
+       marker-end="url(#marker18)"
+       d="m 999.709,161 h -56.431 c -56.431,0 -169.293,0 -231.389,0 -62.097,0 -73.428,0 -84.759,4.25 -11.331,4.25 -22.662,12.75 -33.993,17 -11.331,4.25 -22.662,4.25 -28.328,4.25 h -5.666"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path43" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fdc28c"
+       stroke-width="3.95811"
+       marker-end="url(#marker19)"
+       d="m 999.709,161 h -56.431 c -56.431,0 -169.293,0 -231.389,0 -62.097,0 -73.428,0 -84.759,12.667 -11.331,12.666 -22.662,38 -33.993,50.666 C 581.806,237 570.475,237 564.809,237 h -5.666"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path44" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#fdc28c"
+       stroke-width="3.95811"
+       marker-end="url(#marker20)"
+       d="m 999.709,161 h -56.431 c -56.431,0 -169.293,0 -231.389,0 -62.097,0 -73.428,0 -84.759,37.917 -11.331,37.916 -22.662,113.75 -33.993,151.666 C 581.806,388.5 570.475,388.5 564.809,388.5 h -5.666"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path45" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#e65339"
+       stroke-width="7.25718"
+       marker-end="url(#marker21)"
+       d="m 989.224,262 h -31.385 c -31.384,0 -94.154,0 -131.103,0 -36.949,0 -48.078,0 -59.207,4.25 -11.129,4.25 -22.257,12.75 -33.386,17 -11.129,4.25 -22.258,4.25 -27.822,4.25 h -5.565"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path46" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#e65339"
+       stroke-width="7.25718"
+       marker-end="url(#marker22)"
+       d="m 989.224,262 h -31.385 c -31.384,0 -94.154,0 -131.103,0 -36.949,0 -48.078,0 -59.207,-12.583 C 756.4,236.833 745.272,211.667 734.143,199.083 723.014,186.5 711.885,186.5 706.321,186.5 h -5.565"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path47" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#e65339"
+       stroke-width="7.25718"
+       marker-end="url(#marker23)"
+       d="m 989.224,262 h -31.385 c -31.384,0 -94.154,0 -131.103,0 -36.949,0 -48.078,0 -59.207,-4.167 -11.129,-4.166 -22.257,-12.5 -33.386,-16.666 C 723.014,237 711.885,237 706.321,237 h -5.565"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path48" />
+    <path
+       class="link"
+       fill="none"
+       stroke="#e65339"
+       stroke-width="7.25718"
+       marker-end="url(#marker24)"
+       d="m 989.224,262 h -31.385 c -31.384,0 -94.154,0 -131.103,0 -36.949,0 -48.078,0 -59.207,21.083 -11.129,21.084 -22.257,63.25 -33.386,84.334 C 723.014,388.5 711.885,388.5 706.321,388.5 h -5.565"
+       style="stroke-linecap:round;stroke-opacity:0.7"
+       id="path49" />
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="136"
+       transform="rotate(-30,394.28827,136)"
+       id="text51"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan49">Increase funding for women’s</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan50">organizations and secure enforcement</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan51">of anti-discrimination laws</tspan></text>
+    <text
+       x="421.28827"
+       y="136"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,136)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text52">95.5</text>
+    <text
+       x="421.28827"
+       y="136"
+       dy="14.4"
+       transform="rotate(-120,421.28827,136)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text53">(32%)</text>
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="186.5"
+       transform="rotate(-30,394.28827,186.5)"
+       id="text55"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan53">Promote gender equality in every</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan54">aspect of society, ensuring</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan55">representation and participation</tspan></text>
+    <text
+       x="421.28827"
+       y="186.5"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,186.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text56">148.2</text>
+    <text
+       x="421.28827"
+       y="186.5"
+       dy="14.4"
+       transform="rotate(-120,421.28827,186.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text57">(49%)</text>
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="237"
+       transform="rotate(-30,394.28827,237)"
+       id="text58"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan57">Implement comprehensive legal reforms</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan58">and educational programs</tspan></text>
+    <text
+       x="421.28827"
+       y="237"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,237)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text59">148.2</text>
+    <text
+       x="421.28827"
+       y="237"
+       dy="14.4"
+       transform="rotate(-120,421.28827,237)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text60">(49%)</text>
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="287.5"
+       transform="rotate(-30,394.28827,287.5)"
+       id="text61"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan60">Educate society on gender equality.</tspan></text>
+    <text
+       x="421.28827"
+       y="287.5"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,287.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text62">226.2</text>
+    <text
+       x="421.28827"
+       y="287.5"
+       dy="14.4"
+       transform="rotate(-120,421.28827,287.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text63">(75%)</text>
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="338"
+       transform="rotate(-30,394.28827,338)"
+       id="text64"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan63">Empower women and girls to speak out</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan64">against injustices.</tspan></text>
+    <text
+       x="421.28827"
+       y="338"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,338)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text65">34.5</text>
+    <text
+       x="421.28827"
+       y="338"
+       dy="14.4"
+       transform="rotate(-120,421.28827,338)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text66">(12%)</text>
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="388.5"
+       transform="rotate(-30,394.28827,388.5)"
+       id="text68"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan66">Challenge harmful societal norms</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan67">through awareness campaigns and</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan68">advocacy.</tspan></text>
+    <text
+       x="421.28827"
+       y="388.5"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,388.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text69">254.7</text>
+    <text
+       x="421.28827"
+       y="388.5"
+       dy="14.4"
+       transform="rotate(-120,421.28827,388.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text70">(85%)</text>
+    <text
+       text-anchor="end"
+       font-size="10.8px"
+       fill="#3e3f3f"
+       style="font-family:sans-serif"
+       x="394.28827"
+       y="439"
+       transform="rotate(-30,394.28827,439)"
+       id="text71"><tspan
+         x="394.28827"
+         dy="0"
+         id="tspan70">Create and enforce laws protecting</tspan><tspan
+         x="394.28827"
+         dy="1.2em"
+         id="tspan71">women's rights</tspan></text>
+    <text
+       x="421.28827"
+       y="439"
+       dy="0.050000001em"
+       transform="rotate(-120,421.28827,439)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text72">151.8</text>
+    <text
+       x="421.28827"
+       y="439"
+       dy="14.4"
+       transform="rotate(-120,421.28827,439)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text73">(51%)</text>
+    <text
+       x="995.28918"
+       y="78"
+       dy="0.050000001em"
+       transform="rotate(-120,995.2892,78)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text74">21.7</text>
+    <text
+       x="995.28918"
+       y="78"
+       dy="14.4"
+       transform="rotate(-120,995.2892,78)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text75">(7%)</text>
+    <text
+       x="999.20551"
+       y="128.5"
+       dy="0.050000001em"
+       transform="rotate(-120,999.20553,128.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text76">12.8</text>
+    <text
+       x="999.20551"
+       y="128.5"
+       dy="14.4"
+       transform="rotate(-120,999.20553,128.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text77">(4%)</text>
+    <text
+       x="997.83331"
+       y="179"
+       dy="0.050000001em"
+       transform="rotate(-120,997.8333,179)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text78">15.7</text>
+    <text
+       x="997.83331"
+       y="179"
+       dy="14.4"
+       transform="rotate(-120,997.8333,179)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text79">(5%)</text>
+    <text
+       x="987.69946"
+       y="229.5"
+       dy="0.050000001em"
+       transform="rotate(-120,987.69944,229.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text80">45.3</text>
+    <text
+       x="987.69946"
+       y="229.5"
+       dy="14.4"
+       transform="rotate(-120,987.69944,229.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text81">(15%)</text>
+    <text
+       x="985.78516"
+       y="280"
+       dy="0.050000001em"
+       transform="rotate(-120,985.78516,280)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text82">52.7</text>
+    <text
+       x="985.78516"
+       y="280"
+       dy="14.4"
+       transform="rotate(-120,985.78516,280)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text83">(18%)</text>
+    <text
+       x="967.28827"
+       y="330.5"
+       dy="0.050000001em"
+       transform="rotate(-120,967.28827,330.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:18px;text-anchor:middle"
+       id="text84">151.8</text>
+    <text
+       x="967.28827"
+       y="330.5"
+       dy="14.4"
+       transform="rotate(-120,967.28827,330.5)"
+       font-family="sans-serif"
+       fill="#3e3f3f"
+       style="font-size:10.8px;text-anchor:middle"
+       id="text85">(51%)</text>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】End poverty in all its forms everywhere (Target 1.1) 
+title: 【SDGs】NO POVERTY (Target 1.1) 
 author: 
 date: 2024-05-21
 ---
