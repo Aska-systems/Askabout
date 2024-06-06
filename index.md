@@ -29,9 +29,13 @@ If you are interested in conducting a survey like the ones shown on this website
 
 # Updates
 
-- 5/29 (2024) [【SDGs】Ensure healthy lives, etc. (Target 2.1) ](posts/SDGs-Survey-Target-3-1)
-- 5/28 (2024) [【SDGs】End Hunger, etc. (Target 2.1) ](posts/SDGs-Survey-Target-2-1)
-- 5/27 (2024) [【SDGs Survey】End poverty in all its forms everywhere (Target 1.1) ](posts/SDGs-Survey-Target-1-1)
+- 6/5 (2024) [【SDGs】AFFORDABLE AND CLEAN ENERGY (Target 7.3)  ](posts/SDGs-Survey-Target-7-3)
+- 6/3 (2024) [【SDGs】CLEAN WATER AND SANITATION (Target 6.1)  ](posts/SDGs-Survey-Target-6-1)
+- 5/31 (2024) [【SDGs】GENDER EQUALITY (Target 5.1)  ](posts/SDGs-Survey-Target-5-1)
+- 5/30 (2024) [【SDGs】QUALITY EDUCATION (Target 4.1) ](posts/SDGs-Survey-Target-4-1)
+- 5/29 (2024) [【SDGs】GOOD HEALTH AND WELL-BEING (Target 3.1)  ](posts/SDGs-Survey-Target-3-1)
+- 5/28 (2024) [【SDGs】ZERO HUNGER (Target 2.1)  ](posts/SDGs-Survey-Target-2-1)
+- 5/27 (2024) [【SDGs Survey】NO POVERTY (Target 1.1)  ](posts/SDGs-Survey-Target-1-1)
 
 <!-- [Request a Survey](https://just-the-docs.com){: .btn .btn-outline } -->
 <!-- [About Us](https://aska-intelligence.com){: .btn .btn-outline } -->
