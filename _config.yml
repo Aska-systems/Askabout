@@ -21,6 +21,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:title
+  jp:
+    output: true
+    permalink: /:collection/:title
 
 callouts_level: quiet # or loud
 callouts:
@@ -46,6 +49,9 @@ just_the_docs:
     posts:
       # Give the collection a name
       name: Posts
+    jp:
+      # Give the collection a name
+      name: Japanese Posts
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
