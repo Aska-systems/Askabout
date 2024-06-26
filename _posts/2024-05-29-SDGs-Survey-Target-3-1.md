@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】GOOD HEALTH AND WELL-BEING (Target 3.1) 
+title: SDGs-GOOD HEALTH 
 author: 
 date: 2024-05-29
 ---

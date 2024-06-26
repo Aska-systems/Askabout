@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】ZERO HUNGER (Target 2.1) 
+title: SDGs-ZERO HUNGER
 author: 
 date: 2024-05-28
 ---

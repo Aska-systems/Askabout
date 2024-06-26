@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】QUALITY EDUCATION (Target 4.1) 
+title: SDGs-QUALITY EDUCATION
 author: 
 date: 2024-05-30
 ---

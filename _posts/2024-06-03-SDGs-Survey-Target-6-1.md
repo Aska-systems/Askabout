@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】CLEAN WATER AND SANITATION (Target 6.1) 
+title: SDGs-CLEAN WATER
 author: 
 date: 2024-06-04
 ---

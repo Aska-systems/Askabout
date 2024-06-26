@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】AFFORDABLE AND CLEAN ENERGY (Target 7.1) 
+title: SDGs-CLEAN ENERGY
 author: 
 date: 2024-06-06
 ---

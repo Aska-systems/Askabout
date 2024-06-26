@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】DECENT WORK AND ECONOMIC GROWTH (Target 8.9) 
+title: SDGs-DECENT WORK 
 author: 
 date: 2024-06-07
 ---

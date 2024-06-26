@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】NO POVERTY (Target 1.1) 
+title: SDGs-NO POVERTY
 author: 
 date: 2024-05-21
 ---

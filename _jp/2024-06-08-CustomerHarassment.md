@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customer Harassment
+title: カスタマーハラスメント対策
 author: 
 date: 2024-06-08
 ---

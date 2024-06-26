@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SDGs】GENDER EQUALITY (Target 5.1) 
+title: SDGs-GENDER EQUALITY
 author: 
 date: 2024-05-31
 ---
